@@ -18,7 +18,7 @@ The chart above suggests that Kickstarters for theater projects tend to be the m
 
 ### Analysis of Outcomes Based on Goals
 
-![Outcomes Based on Goals](Outcomes_vs__Goals.png)
+![Outcomes Based on Goals](Outcomes_vs_Goals.png)
 
 The data suggest that theater projects with smaller goals have experienced the highest record of success. Specifically, projects with goals under $15,000 have experienced a greater than 50% success rate. While the data indicate success rates of 66.7% for goals ranging from $35,000 to $45,000, the sample sizes associated are very small and may not be a representative sample of all theater play projects with those funding goals. The sample sizes associated with projects with goals under $15,000 have large sample sizes that give confidence that the data are representative of what can be expected when a funding goal is set to be less than $15,000.
 
